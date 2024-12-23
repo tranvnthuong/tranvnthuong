@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning [Skill/Technology]
 - 👯 I’m looking to collaborate on [Project Type]
 - 💬 Ask me about Web design
-- 📫 How to reach me: [facebook.com/thuongwbw]
+- 📫 How to reach me: facebook.com/thuongwbw
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tranvnthuong&show_icons=true&theme=radical)
