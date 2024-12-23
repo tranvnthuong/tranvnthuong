@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi there, I'm [Tran Van Thuong]!
 
-<!--
-**tranvnthuong/tranvnthuong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [Project Name]
+- 🌱 I’m currently learning [Skill/Technology]
+- 👯 I’m looking to collaborate on [Project Type]
+- 💬 Ask me about [Your Expertise]
+- 📫 How to reach me: [Your Contact Information]
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tranvnthuong&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Pinned Repositories
+- [Project 1](https://github.com/yourusername/project1)
+- [Project 2](https://github.com/yourusername/project2)
