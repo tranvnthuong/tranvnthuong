@@ -1,13 +1,13 @@
 # 👋 Hi! My name is Tran Van Thuong 
 
-Welcome to my GitHub page! I'm Web developer.  
+Welcome to my GitHub page! I'm developer.  
 
 ## 🚀 About me  
 
 - 🎓 Education:  
 - 💼 Job:
-- 📌 Taste: Programming, design, write a blog,  
-
+- 📌 Taste: Backend Developer, Programming
+  
 ## 🛠 Skills  
 
 🔹 **Programming language:**  
@@ -21,7 +21,8 @@ Welcome to my GitHub page! I'm Web developer.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
 🔹 **Tools:**  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📌 Project  
