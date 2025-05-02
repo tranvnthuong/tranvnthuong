@@ -1,12 +1,12 @@
 # 👋 Hi! My name is Tran Van Thuong 
 
-Welcome to my GitHub page! I'm developer.  
+Welcome to my GitHub page! I'm Web Developer.  
 
 ## 🚀 About me  
 
 - 🎓 Education:  
 - 💼 Job:
-- 📌 Taste: Backend Developer, Programming
+- 📌 Taste: Web Developer, Programming
   
 ## 🛠 Skills  
 
