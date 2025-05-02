@@ -27,7 +27,7 @@ Welcome to my GitHub page! I'm Web developer.
 ## 📌 Project  
 
 🔹 [**Shop Cong Nghe**](https://github.com/tranvnthuong/shop-cong-nghe) - Dynamic store website using responsive bootstrap  
-🔹 [**Note App**](https://github.com/tranvnthuong/note-app) - The note app can share notes quickly
+🔹 [**Note App**](https://github.com/tranvnthuong/noteapp) - The note app can share notes quickly
 
 ## 📫 Contact 
 
