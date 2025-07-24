@@ -1,6 +1,6 @@
 # 👋 Hi! My name is Tran Van Thuong 
 
-Welcome to my GitHub page! I'm Web Developer.  
+Welcome to my GitHub page! I'm Programmer.  
 
 ## 🚀 About me  
 
