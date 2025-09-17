@@ -28,7 +28,7 @@ Welcome to my GitHub page! I'm Programmer.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📌 Project  
-
+🔹 [**Shoe Store**](https://github.com/tranvnthuong/shoe_store) - Online Shoe Sales Website
 🔹 [**Shop Cong Nghe**](https://github.com/tranvnthuong/shop-cong-nghe) - Dynamic store website using responsive bootstrap  
 🔹 [**Note API**](https://github.com/tranvnthuong/note-api) - The note app can share notes quickly
 
